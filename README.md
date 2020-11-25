@@ -1,2 +1,10 @@
-# Docs
-Documents and Resources for the Brisbane Tech Lead Community
+# Brisbane Tech Leadership Community
+
+## Vision
+
+
+## Mission
+
+
+## Strategy
+
